@@ -35,8 +35,13 @@ Dit is de README voor het vak HCD, hierin lees je over het proces van mijn ontwe
 * Wat kan je allemaal qua besturing met je lichaam / ledematen?
 * Hoe zit je in de trein? Zit je in je rolstoel of in een normale stoel? Staat je rolstoel vast ergens in? Waar zit je? Etc...
 * Hoe gebruik je je mobiel? Hoe ligt die op de leuning? Zit die vast ergens in of op? Is er een mogelijkheid om de hoek aan te passen?
+* Vindt je het oke om je stem te gebruiken of heb je liever dat je het allemaal kan doen door te typen?
 
 ## Eerste ideeën (prioratize identity)
+* Toetsenbord dat met de beweging van zijn hand en trein meegaat
+* Letters schrijven in fullscreen modus in plaats van aanklikken op zo'n klein toetsenbord
+* Groot toetsenbord fullscreen
+* Automatische berichten al gegenereerd a.h.v. de context die je in kan voegen
 
 ## Bronnen
 * https://www.digitoegankelijk.nl/het-verhaal-van-eric-groot-kormelink
