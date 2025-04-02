@@ -30,8 +30,8 @@ Dit is de README voor het vak HCD, hierin lees je over het proces van mijn ontwe
 
 ### Vragen voor eerste testmoment
 * Hoe ervaar je het typen in de trein? Kan je echt niks typen of heb je moeite met de accuraatheid ervan?
-* Heb je al speciale instellingen voor het typen, ook buiten de trein om?
-* Wat zou je graag in de trein willen doen waar typen voor nodig is?
+* Heb je al speciale instellingen of devices voor het typen? 
+* Wat zou je graag in de trein willen doen waar typen voor nodig is? Kan je een priority lijst maken van wat je het belangerijkst / minder belangrijk vindt.
 * Wat kan je allemaal qua besturing met je lichaam / ledematen?
 * Hoe zit je in de trein? Zit je in je rolstoel of in een normale stoel? Staat je rolstoel vast ergens in? Waar zit je? Etc...
 * Hoe gebruik je je mobiel? Hoe ligt die op de leuning? Zit die vast ergens in of op? Is er een mogelijkheid om de hoek aan te passen?
