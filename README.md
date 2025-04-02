@@ -42,7 +42,7 @@ Dit is de README voor het vak HCD, hierin lees je over het proces van mijn ontwe
 * Letters schrijven in fullscreen modus in plaats van aanklikken op zo'n klein toetsenbord
 * Groot toetsenbord fullscreen
 * Automatische berichten al gegenereerd a.h.v. de context die je in kan voegen
-* Suggestie welk woord je wilt typen of welke letter er na komt
+* Suggestie welk woord je wilt typen 
 
 ## Bronnen
 * https://www.digitoegankelijk.nl/het-verhaal-van-eric-groot-kormelink
