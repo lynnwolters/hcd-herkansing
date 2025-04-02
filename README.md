@@ -38,7 +38,7 @@ Dit is de README voor het vak HCD, hierin lees je over het proces van mijn ontwe
 * Vindt je het oke om je stem te gebruiken of heb je liever dat je het allemaal kan doen door te typen?
 
 ## Eerste ideeën (prioratize identity)
-* Toetsenbord dat met de beweging van zijn hand en trein meegaat
+* Toetsenbord dat met de beweging van zijn hand meegaat en letters die groter worden als je eroverheen zweeft
 * Letters schrijven in fullscreen modus in plaats van aanklikken op zo'n klein toetsenbord
 * Groot toetsenbord fullscreen
 * Automatische berichten al gegenereerd a.h.v. de context die je in kan voegen
