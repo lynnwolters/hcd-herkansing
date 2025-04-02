@@ -28,7 +28,7 @@ Dit is de README voor het vak HCD, hierin lees je over het proces van mijn ontwe
 * Dat het accuraat gaat
 * Hij in die tijd zijn to do’s af kan handelen
 
-### Vragen voor eerste testmoment
+### Vragen voor het eerste testmoment
 * Hoe ervaar je het typen in de trein? Kan je echt niks typen of heb je moeite met de accuraatheid ervan?
 * Heb je al speciale instellingen of devices voor het typen? 
 * Wat zou je graag in de trein willen doen waar typen voor nodig is? Kan je een priority lijst maken van wat je het belangerijkst / minder belangrijk vindt.
