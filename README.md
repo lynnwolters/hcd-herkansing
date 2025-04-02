@@ -50,5 +50,5 @@ Idee 5. Suggestie welk woord je wilt typen
 ![IMG_0650](https://github.com/user-attachments/assets/47dc42d9-b1ee-457d-a26d-e7b32226b0ff)
 
 ## Bronnen
-* https://www.digitoegankelijk.nl/het-verhaal-van-eric-groot-kormelink (kijken hoe hij beweegt)
+* https://www.digitoegankelijk.nl/het-verhaal-van-eric-groot-kormelink (kijken hoe Eric beweegt)
 
