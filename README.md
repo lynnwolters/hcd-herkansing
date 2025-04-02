@@ -44,6 +44,11 @@ Idee 3. Groot toetsenbord fullscreen
 Idee 4. Automatische berichten al gegenereerd die je in kan voegen a.h.v. de context
 Idee 5. Suggestie welk woord je wilt typen 
 
+### Schetsen van eerste ideeën
+
+![IMG_0649](https://github.com/user-attachments/assets/1b11133b-2d96-434c-a959-5cdbf830b5e4)
+![IMG_0650](https://github.com/user-attachments/assets/47dc42d9-b1ee-457d-a26d-e7b32226b0ff)
+
 ## Bronnen
 * https://www.digitoegankelijk.nl/het-verhaal-van-eric-groot-kormelink
 
