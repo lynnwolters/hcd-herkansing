@@ -41,7 +41,7 @@ Dit is de README voor het vak HCD, hierin lees je over het proces van mijn ontwe
 * Toetsenbord dat met de beweging van zijn hand meegaat en letters die groter worden als je eroverheen zweeft
 * Letters schrijven in fullscreen modus in plaats van aanklikken op zo'n klein toetsenbord
 * Groot toetsenbord fullscreen
-* Automatische berichten al gegenereerd a.h.v. de context die je in kan voegen
+* Automatische berichten al gegenereerd die je in kan voegen a.h.v. de context
 * Suggestie welk woord je wilt typen 
 
 ## Bronnen
