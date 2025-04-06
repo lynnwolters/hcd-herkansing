@@ -1,0 +1,29 @@
+<html lang="en">
+  <head>
+    <script
+      type="text/javascript"
+      src="https://www.chenyuho.com/project/handwritingjs/handwriting.canvas.js"
+    ></script>
+    <link rel="stylesheet" href="index.css">
+  </head>
+
+  <body>
+    <h4>
+      Hold P for paint mode. In paint mode, any mouse movement will paint over
+      canvas, as if you clicked and dragged
+    </h4>
+    <h4>Paint mode: <span id="paintMode">OFF</span></h4>
+    <canvas
+      id="canvas"
+      width="800"
+      height="400"
+      style="border: 2px solid; cursor: crosshair"
+    ></canvas>
+    <div class="buttons">
+      <button onclick="canvas.recognize()">Recognize</button>
+      <button onclick="canvas.erase()">Erase</button>
+    </div>
+    <div>Result: <span id="result" /></div>
+    <script src="index.js"></script>
+  </body>
+</html>
