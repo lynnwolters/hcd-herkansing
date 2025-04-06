@@ -7,7 +7,6 @@ canvas.setCallBack(function (data, err) {
 
 canvas.setLineWidth(5);
 
-//Set options
 canvas.setOptions({
   language: "en",
   numOfReturn: 1,
