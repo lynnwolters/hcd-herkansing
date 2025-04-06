@@ -1,34 +1,67 @@
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Handschrift Herkenning</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-        }
-        canvas {
-            border: 1px solid black;
-            margin: 20px;
-        }
-        #outputText {
-            font-size: 24px;
-            margin-top: 20px;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <title>Canvas OCR Prototype</title>
+  <style>
+    canvas {
+      border: 1px solid black;
+      cursor: crosshair;
+    }
+    #output {
+      margin-top: 20px;
+      font-size: 18px;
+    }
+  </style>
 </head>
 <body>
-    <h1>Teken een letter!</h1>
-    <canvas id="drawCanvas" width="300" height="300"></canvas>
-    <br>
-    <input type="text" id="outputText" readonly placeholder="De getekende letter verschijnt hier...">
-    <br><br>
-    <button id="clearBtn">Canvas Wissen</button>
+  <h1>Teken iets en herken de tekst</h1>
+  <canvas id="canvas" width="400" height="200"></canvas><br>
+  <button onclick="recognizeText()">Herken Tekst</button>
+  <button onclick="clearCanvas()">Maak Canvas Leeg</button>
+  <div id="output"></div>
 
-    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-vis"></script>
-    <script src="index.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/tesseract.js@4/dist/tesseract.min.js"></script>
+  <script>
+    const canvas = document.getElementById('canvas');
+    const ctx = canvas.getContext('2d');
+    let drawing = false;
+
+    canvas.addEventListener('mousedown', () => drawing = true);
+    canvas.addEventListener('mouseup', () => drawing = false);
+    canvas.addEventListener('mouseleave', () => drawing = false);
+    canvas.addEventListener('mousemove', draw);
+
+    function draw(e) {
+      if (!drawing) return;
+      ctx.lineWidth = 3;
+      ctx.lineCap = 'round';
+      ctx.strokeStyle = 'black';
+
+      const rect = canvas.getBoundingClientRect();
+      ctx.lineTo(e.clientX - rect.left, e.clientY - rect.top);
+      ctx.stroke();
+      ctx.beginPath();
+      ctx.moveTo(e.clientX - rect.left, e.clientY - rect.top);
+    }
+
+    function clearCanvas() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      ctx.beginPath();
+      document.getElementById('output').innerText = '';
+    }
+
+    function recognizeText() {
+      const dataURL = canvas.toDataURL('image/png');
+
+      Tesseract.recognize(
+        dataURL,
+        'eng',
+        { logger: m => console.log(m) }
+      ).then(({ data: { text } }) => {
+        document.getElementById('output').innerText = `Herkennde tekst: \n${text}`;
+      });
+    }
+  </script>
 </body>
 </html>
