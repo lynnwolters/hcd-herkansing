@@ -35,7 +35,7 @@ label,
 input,
 textarea {
   font-family: "Outfit", sans-serif;
-  font-size: 1.5rem;
+  font-size: 2rem;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -46,6 +46,8 @@ textarea {
   display: flex;
   flex-direction: column;
   align-items: center;
+
+  padding: 2rem;
 
   background-color: yellow;
 }
@@ -58,7 +60,7 @@ textarea {
   position: absolute;
   pointer-events: none;
 
-  padding: 1rem;
+  padding: 2rem;
 
   color: var(--color-text-dimmed);
 }
@@ -71,7 +73,7 @@ textarea {
 }
 
 .container__buttons button {
-  padding: 1rem 1.5rem;
+  padding: 2rem 2.5rem;
 
   border: none;
   border-radius: var(--border-radius);
