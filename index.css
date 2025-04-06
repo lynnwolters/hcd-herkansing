@@ -16,6 +16,10 @@
   box-sizing: border-box;
 }
 
+body {
+  overflow: hidden;
+}
+
 button {
   cursor: pointer;
 }
