@@ -75,6 +75,12 @@ Bij het eerste testmoment op school hebben wij Eric voor het eerst ontmoet en le
 * Hij gebruikt af en toe een raster waarmee hij kan navigeren, die wordt dan over het toetsenbord heen gelegd en dan kan hij zeggen klik op b5
 * De demo van dat hij probeert letters te tekenen werkte voor hem opzich wel goed en hij vond het een mooie optie om Japanse letters te leren bij Duolingo
 
+### Interessante dingen die ik uit het eerste testmoment haal
+
+* De behoefte om te kunnen kiezen wat hij doet en hoe hij het doet
+* Dat het tekenen van letters best een goede optie was
+* Dat hij vaak eerst een zoekactie moet typen om ergens heen te gaan
+
 ## Bronnen
 * https://www.digitoegankelijk.nl/het-verhaal-van-eric-groot-kormelink (kijken hoe Eric beweegt)
 
