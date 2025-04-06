@@ -49,6 +49,32 @@ Dit is de README voor het vak HCD, hierin lees je over het proces van mijn ontwe
 ![IMG_0649](https://github.com/user-attachments/assets/1b11133b-2d96-434c-a959-5cdbf830b5e4)
 ![IMG_0650](https://github.com/user-attachments/assets/47dc42d9-b1ee-457d-a26d-e7b32226b0ff)
 
+## Eerste testmoment - 3 april 2025
+
+Bij het eerste testmoment op school hebben wij Eric voor het eerst ontmoet en leren kennen. Veel van mijn aannames / online onderzoek bleek te kloppen waardoor ik al redelijk in de goede richting zat wat betreft de eerste ideeën die ik had bedacht. Ook hebben wij hem vragen gesteld om hem en zijn problematiek beter te begrijpen en hieronder vindt je daar de aantekeningen van:
+
+### Aantekeningen eerste testmoment
+
+* Hij is erg beperkt met zijn armen, komt bijvoorbeeld niet bij zijn mond
+* Spraak technologie is vaak erg onhandig in de trein door de herrie en via Bluetooth / koptelefoon kan je bijvoorbeeld geen spraakmemo opnemen
+* Hij wil graag podcasts luisteren, berichten sturen, social media bekijken, reizen checken, notities maken
+* Hij heeft vaak last van zijn schouder omdat hij zijn arm nergens op kan leggen
+* Hij gebruikt een normaal toetsenbord waarbij de cijfers boven het toetsenbord staan, heeft meerdere custom toetsenborden geprobeerd maar die vond hij niet fijn door het vele switchen tussen karakters, verder heeft hij geen extra instellingen, hij vind een zo compact mogelijk toetsenbord het fijnst waar alles op staat
+* Text to speech vindt hij interessant maar ook daar is hij vaak meer bezig met het corrigeren van de tekst door de herrie, hij wacht daardoor vaak op een stil moment in de trein
+* Hij vindt het jammer dat juist in de trein een moment is waarop je even contact kan leggen met je sociale kring maar dat hij hierin dus beperkt wordt
+* Hij vindt accuraatheid en dat het makkelijk gaat belangrijker dan dat het snel gaat, hij zou het wel fijn vinden als er ook een optie is om sneller te typen, dat hij kan wisselen
+* Verbeteren van de tekst die hij typt of inspreekt kost veel energie
+* Hij gebruikt wel woordvoorspelling en autocorrectie maar ook daar moet hij het een en ander verbeteren
+* Swipe toetsenborden vindt hij verschrikkelijk
+* Hij kan handelingen zoals pinchen en zoomen niet
+* Hij swiped om terug te gaan
+* Hij wil graag als eindproduct een oplossing om makkelijker en meer accuraat te typen, waarbij hij de mogelijkheid heeft om te switchen a.h.v. wat hij op dat moment zou willen doen, hij kan namelijk geen antwoord geven op wat hij het liefst zou willen doen
+* Instagram is het makkelijkst in gebruik omdat je daar niet veel hoeft te typen
+* Hij vindt het ook vervelend dat in veel apps vaak al het toetsenbord omhoog komt en je altijd eerst een zoekactie moet doen om ergens heen te gaan
+* Hij staat open om een heel nieuw toetsenbord te leren of een spraak systeem
+* Hij gebruikt af en toe een raster waarmee hij kan navigeren, die wordt dan over het toetsenbord heen gelegd en dan kan hij zeggen klik op b5
+* De demo van dat hij probeert letters te tekenen werkte voor hem opzich wel goed en hij vond het een mooie optie om Japanse letters te leren bij Duolingo
+
 ## Bronnen
 * https://www.digitoegankelijk.nl/het-verhaal-van-eric-groot-kormelink (kijken hoe Eric beweegt)
 
