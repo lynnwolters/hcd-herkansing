@@ -83,14 +83,14 @@ Bij het eerste testmoment op school hebben wij Eric voor het eerst ontmoet en le
 
 ## Eerste prototype
 
-<img width="281" alt="Scherm­afbeelding 2025-04-07 om 11 25 07" src="https://github.com/user-attachments/assets/80234bf4-22d4-4a37-ad9f-f4701c9d2bae" />
-
 Omdat ik het een erg interessant idee vond en Eric het ook zag zitten, heb ik een prototype gemaakt van het teken toetsenbord. Dit is de [link](lynnwolters.github.io/hcd-herkansing/) naar het prototype. Het is nog een vrij eenvoudig model maar wel erg accuraat wat betreft het tekenen. Als ik merk dat Eric het nog steeds fijn / interessant vindt werken, dan ga ik het verder uitwerken met de volgende functies:
 
 * De zoom optie verwijderen omdat hij anders niet meer terug kan als hij perongeluk twee keer snel achter elkaar klikt
 * Als je op 'wis alles' klikt dat ook het tekst veld leeg wordt gemaakt
 * Dat je een response krijgt als je op een van de buttons klikt
 * Dat je een heel bericht kan tekenen zonder dat je het hele scherm onder tekent
+
+<img width="281" alt="Scherm­afbeelding 2025-04-07 om 11 25 07" src="https://github.com/user-attachments/assets/80234bf4-22d4-4a37-ad9f-f4701c9d2bae" />
 
 ### Hoe het is gemaakt
 
