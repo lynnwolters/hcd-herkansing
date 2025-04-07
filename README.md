@@ -81,6 +81,19 @@ Bij het eerste testmoment op school hebben wij Eric voor het eerst ontmoet en le
 * Dat het tekenen van letters best een goede optie was
 * Dat hij vaak eerst een zoekactie moet typen om ergens heen te gaan
 
+## Eerste prototype
+
+Omdat ik het een erg interessant idee vond en Eric het ook zag zitten, heb ik een prototype gemaakt van het teken toetsenbord. Dit is de [link](lynnwolters.github.io/hcd-herkansing/) naar het prototype. Het is nog een vrij eenvoudig model maar wel erg accuraat wat betreft het tekenen. Als ik merk dat Eric het nog steeds fijn / interessant vindt werken, dan ga ik het verder uitwerken met de volgende functies:
+
+* De zoom optie verwijderen omdat hij anders niet meer terug kan als hij perongeluk twee keer snel achter elkaar klikt
+* Als je op 'wis alles' klikt dat ook het tekst veld leeg wordt gemaakt
+* Dat je een response krijgt als je op een van de buttons klikt
+* Dat je een heel bericht kan tekenen zonder dat je het hele scherm onder tekent
+
+### Hoe het is gemaakt
+
+Ik heb wat onderzoek gedaan om dit prototype mogelijk te maken en ik kwam er al snel achter dat het vrij lastig is om dit te maken. In de basis is het simpel: een canvas waar je op kan tekenen > de tekening wordt omgezet naar een image > d.m.v. [OCR](https://nl.wikipedia.org/wiki/Optical_character_recognition) technologie wordt het karakter herkend. Echter mis je de accuraatheid van het model omdat je hem niet kan trainen. Ik kreeg met deze opzet heel vaak verkeerde tekst terug en ik heb helaas geen kennis van AI om een trainingmodel erin te bouwen. Ik had het nog geprobeerd met [TensorFlow.js](https://www.tensorflow.org/js) maar dat was echt ontzettend lastig. Toen ben ik opzoek gegaan naar Codepens waarbij mensen dit geprobeerd hadden en ook daar liep ik telkens tegen de muur. Vaak waren het image to text modellen waar ik natuurlijk niks aan heb. Uiteindelijk vond ik een [prototype](https://codepen.io/tomapaunovic/pen/BapVoqb) wat ontzettend goed werkte en die heb geïmplementeerd in mijn design (alleen de JavaScript code). Ondanks dat ik voor een groot deel de JavaScript code van iemand anders heb, weet ik goed wat er gebeurd en kan ik het een en ander aanpassen om mijn prototype te realiseren.
+
 ## Bronnen
 * https://www.digitoegankelijk.nl/het-verhaal-van-eric-groot-kormelink (kijken hoe Eric beweegt)
 
