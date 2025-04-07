@@ -83,7 +83,7 @@ Bij het eerste testmoment op school hebben wij Eric voor het eerst ontmoet en le
 
 ## Eerste prototype
 
-Omdat ik het een erg interessant idee vond en Eric het ook zag zitten, heb ik een prototype gemaakt van het teken toetsenbord. Dit is de [link](lynnwolters.github.io/hcd-herkansing/) naar het prototype. Het is nog een vrij eenvoudig model maar wel erg accuraat wat betreft het tekenen. Als ik merk dat Eric het nog steeds fijn / interessant vindt werken, dan ga ik het verder uitwerken met de volgende functies:
+Omdat ik het een erg interessant idee vond en Eric het ook zag zitten, heb ik een prototype gemaakt van het teken toetsenbord. Dit is de [link](https://lynnwolters.github.io/hcd-herkansing/) naar het prototype. Het is nog een vrij eenvoudig model maar wel erg accuraat wat betreft het tekenen. Als ik merk dat Eric het nog steeds fijn / interessant vindt werken, dan ga ik het verder uitwerken met de volgende functies:
 
 * De zoom optie verwijderen omdat hij anders niet meer terug kan als hij perongeluk twee keer snel achter elkaar klikt
 * Als je op 'wis alles' klikt dat ook het tekst veld leeg wordt gemaakt
