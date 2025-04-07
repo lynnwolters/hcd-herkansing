@@ -98,4 +98,7 @@ Ik heb wat onderzoek gedaan om dit prototype mogelijk te maken en ik kwam er al 
 
 ## Bronnen
 * https://www.digitoegankelijk.nl/het-verhaal-van-eric-groot-kormelink (kijken hoe Eric beweegt)
+* https://nl.wikipedia.org/wiki/Optical_character_recognition (image to text technologie)
+* https://www.tensorflow.org/js (JavaScript AI training model)
+* https://codepen.io/tomapaunovic/pen/BapVoqb (prototype waarvan ik de JavaScript code heb gebruikt)
 
