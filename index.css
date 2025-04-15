@@ -20,7 +20,9 @@
   box-sizing: border-box;
 }
 
-body {
+html, body {
+  touch-action: manipulation;
+
   background-color: var(--color-white);
 }
 
