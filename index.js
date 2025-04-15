@@ -226,6 +226,9 @@ canvas.setCallBack(function (data, err) {
     throw err;
   } else {
     const resultElement = document.getElementById("result");
+    
+    resultElement.innerHTML = "";
+
     const newSpan = document.createElement("span");
     newSpan.textContent = data + " ";
     resultElement.appendChild(newSpan);
@@ -237,9 +240,14 @@ canvas.setCallBack(function (data, err) {
 canvas.eraseResult = function () {
   const resultEl = document.getElementById("result");
   if (resultEl) {
-    resultEl.innerHTML = "";
+    resultEl.innerHTML = "Hier komt de getekende tekst.";
   }
 };
+
+const resultElement = document.getElementById("result");
+if (resultElement) {
+  resultElement.innerHTML = "Hier komt de getekende tekst.";
+}
 
 canvas.copy = function () {
   const resultEl = document.getElementById("result");
