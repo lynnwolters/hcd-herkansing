@@ -226,8 +226,10 @@ canvas.setCallBack(function (data, err) {
     throw err;
   } else {
     const resultElement = document.getElementById("result");
-    
-    resultElement.innerHTML = "";
+
+    if (resultElement.innerHTML === "Hier komt de getekende tekst.") {
+      resultElement.innerHTML = "";
+    }
 
     const newSpan = document.createElement("span");
     newSpan.textContent = data + " ";
@@ -251,6 +253,8 @@ if (resultElement) {
 
 canvas.copy = function () {
   const resultEl = document.getElementById("result");
+  const customAlert = document.getElementById("customAlert");
+
   if (!resultEl) return;
 
   const text = resultEl.textContent.trim();
@@ -260,7 +264,13 @@ canvas.copy = function () {
   navigator.clipboard
     .writeText(text)
     .then(() => {
-      alert("Tekst gekopieerd naar klembord.");
+      customAlert.classList.remove("hidden");
+      customAlert.classList.add("visible");
+
+      setTimeout(() => {
+        customAlert.classList.remove("visible");
+        customAlert.classList.add("hidden");
+      }, 2000);
     })
     .catch((err) => {
       console.error("Fout bij kopiëren:", err);
