@@ -252,7 +252,7 @@ canvas.copy = function () {
   navigator.clipboard
     .writeText(text)
     .then(() => {
-      alert("Tekst gekopieerd naar klembord:", text);
+      alert("Tekst gekopieerd naar klembord.");
     })
     .catch((err) => {
       console.error("Fout bij kopiëren:", err);
