@@ -12,6 +12,7 @@
   --color-text-dimmed: #a6a6a6;
   --color-clear: #ff894d;
   --color-accept: #6fbd48;
+  --color-copy: #3875ee;
 }
 
 * {
@@ -91,12 +92,10 @@ textarea {
   background-color: var(--color-white);
 }
 
-.container__buttons {
-  display: flex;
-  justify-content: space-between;
-}
-
 .container__buttons button {
+  width: 100%;
+
+  margin-bottom: var(--spacing-s);
   padding: 2rem 2.5rem;
 
   border: none;
@@ -111,4 +110,8 @@ textarea {
 
 .container__buttons-accept {
   background-color: var(--color-accept);
+}
+
+.container__buttons-copy {
+  background-color: var(--color-copy);
 }
