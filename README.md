@@ -111,6 +111,7 @@ Eric vond het prototype erg tof werken, vooral dat je heel vrijuit kan tekenen e
 * Zoom functie verwijderen: dit ging namelijk al meteen mis toen Eric perongeluk twee keer op het scherm klikte waardoor het erg lastig werd om terug naar fullscreen te gaan
 * Optie om canvas leeg te maken en daarna verder te schrijven: op dit moment werd het erg vol op het canvas omdat er nog geen mogelijkheid is om het canvas schoon te maken zonder dat het input field leeg wordt gemaakt of vervangen wordt
 * Input field tekst groter en duidelijker: hij vond het lastig om te zien waar de getekende tekst stond
+* Meer feedback: nu ziet hij niet echt wat er veranderd en hij krijgt geen response
 
 ## Bronnen
 * https://www.digitoegankelijk.nl/het-verhaal-van-eric-groot-kormelink (kijken hoe Eric beweegt)
