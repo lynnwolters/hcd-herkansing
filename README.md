@@ -113,6 +113,16 @@ Eric vond het prototype erg tof werken, vooral dat je heel vrijuit kan tekenen e
 * Input field tekst groter en duidelijker: hij vond het lastig om te zien waar de getekende tekst stond
 * Meer feedback: nu ziet hij niet echt wat er veranderd en hij krijgt geen response
 
+### Aangepaste versie
+
+<img width="281" alt="Scherm­afbeelding 2025-04-15 om 11 48 55" src="https://github.com/user-attachments/assets/4fb22423-413b-42a5-b5cf-1def3a244eab" />
+
+* Een knop om de tekst naar het klembord te kopiëren met response
+* Duidelijker instructie tekst
+* Weten waar de getekende tekst komt te staan
+* Woorden kunnen toevoegen d.m.v. voeg toe knop, het is nu mogelijk om een hele zin te schrijven zonder dat het oude verwijderd wordt
+* Double tap zoom verwijderd
+
 ## Bronnen
 * https://www.digitoegankelijk.nl/het-verhaal-van-eric-groot-kormelink (kijken hoe Eric beweegt)
 * https://nl.wikipedia.org/wiki/Optical_character_recognition (image to text technologie)
