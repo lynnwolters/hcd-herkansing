@@ -96,6 +96,22 @@ Omdat ik het een erg interessant idee vond en Eric het ook zag zitten, heb ik ee
 
 Ik heb wat onderzoek gedaan om dit prototype mogelijk te maken en ik kwam er al snel achter dat het vrij lastig is om dit te maken. In de basis is het simpel: een canvas waar je op kan tekenen > de tekening wordt omgezet naar een image > d.m.v. [OCR](https://nl.wikipedia.org/wiki/Optical_character_recognition) technologie wordt het karakter herkend. Echter mis je de accuraatheid van het model omdat je hem niet kan trainen. Ik kreeg met deze opzet heel vaak verkeerde tekst terug en ik heb helaas geen kennis van AI om een trainingmodel erin te bouwen. Ik had het nog geprobeerd met [TensorFlow.js](https://www.tensorflow.org/js) maar dat was echt ontzettend lastig. Toen ben ik opzoek gegaan naar Codepens waarbij mensen dit geprobeerd hadden en ook daar liep ik telkens tegen de muur. Vaak waren het image to text modellen waar ik natuurlijk niks aan heb. Uiteindelijk vond ik een [prototype](https://codepen.io/tomapaunovic/pen/BapVoqb) wat ontzettend goed werkte en die heb geïmplementeerd in mijn design (alleen de JavaScript code). Ondanks dat ik voor een groot deel de JavaScript code van iemand anders heb, weet ik goed wat er gebeurd en kan ik het een en ander aanpassen om mijn prototype te realiseren.
 
+## Tweede testmoment - 10 april 2025
+
+![IMG_0790](https://github.com/user-attachments/assets/377e8959-73b8-4aff-bd26-66193901e2d7)
+
+Voor het tweede testmoment reisden we af naar Station Amsterdam Amstel waar Eric een trein had geboekt om onze prototypes in te testen. Al gelijk zagen we de vervelende problemen waar Eric dagelijks mee te maken krijgt. Zoals een hele smalle en lange omweg nemen om op het station te komen en dat er in Castricum geen medewerkers aanwezig waren om hem in / uit de trein te helpen terwijl hij het een week van te voren had aangevraagd... Daarom zijn we voor deze keer in de metro gestapt en zullen we bij het volgende testmoment een nieuwe poging wagen. 
+
+![IMG_0791](https://github.com/user-attachments/assets/038d2ad6-3754-4e4f-8dd6-eda5ef2d30fa)
+
+### Bevindingen tweede testmoment
+
+Eric vond het prototype erg tof werken, vooral dat je heel vrijuit kan tekenen en het erg accuraat is. Wel had hij een paar punten die hij graag anders zou willen zien:
+
+* Zoom functie verwijderen: dit ging namelijk al meteen mis toen Eric perongeluk twee keer op het scherm klikte waardoor het erg lastig werd om terug naar fullscreen te gaan
+* Optie om canvas leeg te maken en daarna verder te schrijven: op dit moment werd het erg vol op het canvas omdat er nog geen mogelijkheid is om het canvas schoon te maken zonder dat het input field leeg wordt gemaakt of vervangen wordt
+* Input field tekst groter en duidelijker: hij vond het lastig om te zien waar de getekende tekst stond
+
 ## Bronnen
 * https://www.digitoegankelijk.nl/het-verhaal-van-eric-groot-kormelink (kijken hoe Eric beweegt)
 * https://nl.wikipedia.org/wiki/Optical_character_recognition (image to text technologie)
