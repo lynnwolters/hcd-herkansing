@@ -123,6 +123,18 @@ Eric vond het prototype erg tof werken, vooral dat je heel vrijuit kan tekenen e
 * Woorden kunnen toevoegen d.m.v. voeg toe knop, het is nu mogelijk om een hele zin te schrijven zonder dat het oude verwijderd wordt
 * Double tap zoom verwijderd
 
+## Derde testmoment - 16 april 2025
+
+Bij het derde testmoment kon Eric er helaas niet zijn, we zijn toen zelfstandig de trein in gestapt en hebben elkaars prototype getest. Om de ervaring van Eric te simuleren hebben we de mobiel losjes in onze handen gehouden en dat de ander geen ondersteuning aan zijn arm had:
+
+<img width="429" alt="Scherm­afbeelding 2025-04-21 om 17 09 39" src="https://github.com/user-attachments/assets/14b784dd-d91b-4168-bbe1-1c311ed393c9" />
+
+### Bevindingen derde testmoment
+
+* De knoppen vallen weg door het scherm en je kan niet echt lekker naar beneden scrollen
+* Kopieer bericht is niet duidelijk door de kleur en omdat die half van het scherm afvalt
+* Het zou tof zijn als de tekst verdwijnt als je kopieert
+
 ## Bronnen
 * https://www.digitoegankelijk.nl/het-verhaal-van-eric-groot-kormelink (kijken hoe Eric beweegt)
 * https://nl.wikipedia.org/wiki/Optical_character_recognition (image to text technologie)
