@@ -53,6 +53,8 @@ textarea {
 }
 
 .container {
+  height: 100dvh;
+  
   padding: var(--spacing-s);
 }
 
