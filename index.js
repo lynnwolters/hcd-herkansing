@@ -266,6 +266,7 @@ canvas.copy = function () {
     .then(() => {
       customAlert.classList.remove("hidden");
       customAlert.classList.add("visible");
+      canvas.erase();
 
       setTimeout(() => {
         customAlert.classList.remove("visible");
