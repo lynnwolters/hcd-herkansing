@@ -136,6 +136,15 @@ Bij het derde testmoment kon Eric er helaas niet zijn, we zijn toen zelfstandig 
 * Het zou tof zijn als de tekst verdwijnt als je kopieert
 * Nog geen optie om te wissen als je iets verkeerds hebt getekend
 
+### Aangepaste versie
+
+<img width="279" alt="Scherm­afbeelding 2025-04-22 om 10 21 16" src="https://github.com/user-attachments/assets/6571a82c-c4a3-4908-bff2-45ef3dcf9995" />
+
+* Kopieer bericht is nu duidelijker door padding, andere kleur en fixed position waardoor je hem altijd ziet
+* Er is nu een optie om alleen het canvas te wissen
+* De tekst in het canvas verdwijnt als je hebt gekopieerd om snelle aanpassingen te maken
+* Doordat het canvas nu iets smaller is, heb je meer ruimte om te scrollen, hierdoor kan je naar beneden scrollen als je bijvoorbeeld teveel tekst typt of een knop net niet goed kan bereiken
+
 ## Bronnen
 * https://www.digitoegankelijk.nl/het-verhaal-van-eric-groot-kormelink (kijken hoe Eric beweegt)
 * https://nl.wikipedia.org/wiki/Optical_character_recognition (image to text technologie)
