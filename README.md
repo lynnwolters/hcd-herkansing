@@ -134,6 +134,7 @@ Bij het derde testmoment kon Eric er helaas niet zijn, we zijn toen zelfstandig 
 * De knoppen vallen weg door het scherm en je kan niet echt lekker naar beneden scrollen
 * Kopieer bericht is niet duidelijk door de kleur en omdat die half van het scherm afvalt
 * Het zou tof zijn als de tekst verdwijnt als je kopieert
+* Nog geen optie om te wissen als je iets verkeerds hebt getekend
 
 ## Bronnen
 * https://www.digitoegankelijk.nl/het-verhaal-van-eric-groot-kormelink (kijken hoe Eric beweegt)
