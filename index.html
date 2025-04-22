@@ -14,19 +14,22 @@
         <p>Tekst gekopieerd naar klembord.</p>
       </div>
 
+      <div class="container__result">
+        <p id="result" class="container__result-text"></p>
+      </div>
+
       <div class="container__canvas">
         <p class="container__canvas-text">Teken wat je wilt typen...</p>
         <canvas id="canvas" class="container__canvas-input" width="910" height="1000"></canvas>
       </div>
 
-      <div class="container__result">
-        <p id="result" class="container__result-text"></p>
-      </div>
-
       <div class="container__buttons">
-        <button class="container__buttons-accept" onclick="canvas.recognize()">Voeg toe</button>
+        <button class="container__buttons-accept" onclick="canvas.recognize()">Voeg getekende tekst toe</button>
+        <div class="container__buttons-clear">
+          <button class="container__buttons-clear-canvas" onclick="canvas.eraseCanvas()">Wis canvas</button>
+          <button class="container__buttons-clear-text" onclick="canvas.eraseResult()">Wis tekst</button>
+        </div>
         <button class="container__buttons-copy" onclick="canvas.copy()">Kopieer tekst</button>
-        <button class="container__buttons-clear" onclick="canvas.eraseResult()">Wis tekst</button>
       </div>
 
     </section>

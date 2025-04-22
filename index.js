@@ -283,3 +283,7 @@ canvas.setOptions({
   language: "en",
   numOfReturn: 1,
 });
+
+canvas.eraseCanvas = function () {
+  canvas.erase();
+};
