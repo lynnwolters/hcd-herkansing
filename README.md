@@ -171,7 +171,7 @@ Tijdens deze herkansing heb ik de Exclusive Design Principles toegepast bij het 
 
 ### Study Situation
 
-Bij elke testobserveerde ik Eric’s gedrag en ontdekte ik de uitdagingen die de treinbewegingen met zich meebrachten en hoe dit zijn typing beïnvloedde. Deze inzichten maakten het mogelijk om het ontwerp steeds verder aan te passen op zijn specifieke behoeften.
+Bij elke test observeerde ik Eric’s gedrag en ontdekte ik de uitdagingen die de treinbewegingen met zich meebrachten. Deze inzichten maakten het mogelijk om het ontwerp steeds verder aan te passen op zijn specifieke behoeften.
 
 ### Ignore Conventions
 
