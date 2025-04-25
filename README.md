@@ -165,6 +165,30 @@ Aan de hand van het vierde testmoment zou ik een paar dingen toch heel anders do
 * Er is een knop die het hele tekstveld leeg maakt
 * Er is een kopieer knop
 
+## Reflectie
+
+Tijdens deze herkansing heb ik de Exclusive Design Principles toegepast bij het ontwerpen van een oplossing voor Eric. Door deze principes bij elke iteratie van het ontwerp toe te passen, heb ik het product steeds beter afgestemd op zijn situatie.
+
+### Study Situation
+
+Bij elke testobserveerde ik Eric’s gedrag en ontdekte ik de uitdagingen die de treinbewegingen met zich meebrachten en hoe dit zijn typing beïnvloedde. Deze inzichten maakten het mogelijk om het ontwerp steeds verder aan te passen op zijn specifieke behoeften.
+
+### Ignore Conventions
+
+In plaats van vast te houden aan een traditioneel toetsenbord, ontwikkelde ik een groter canvas waar Eric letters kan tekenen. Dit negeerde conventies en zorgde ervoor dat het toetsenbord beter aansloot bij zijn fysieke mogelijkheden. Dit proces vond plaats bij elke nieuwe test, waarbij ik steeds meer afweek van traditionele interface-ontwerpen.
+
+### Prioritise Identity
+
+Eric's persoonlijke situatie stond centraal bij elke iteratie van het ontwerp. Zijn specifieke behoeften, zoals het grotere formaat van knoppen en tekstvelden, werden meegenomen in de ontwikkeling van de oplossing, zodat het beter aansloot bij wat voor hem werkte.
+
+### Add Nonsense
+
+Ik voegde "onzin" toe door een canvas te creëren waarmee Eric niet alleen typte, maar ook kon tekenen, wat resulteerde in een creatief en praktisch ontwerp.
+
+### Conclusie
+
+Door de Exclusive Design Principles bij elke iteratie toe te passen, kon ik een oplossing creëren die niet alleen praktisch was, maar ook inspeelde op Eric’s unieke situatie en identiteit. Het proces leerde me dat inclusief ontwerpen verder gaat dan standaardoplossingen en ruimte moet bieden voor creatieve benaderingen die in samenwerking met de gebruiker tot stand komen.
+
 ## Bronnen
 * https://www.digitoegankelijk.nl/het-verhaal-van-eric-groot-kormelink (kijken hoe Eric beweegt)
 * https://nl.wikipedia.org/wiki/Optical_character_recognition (image to text technologie)
