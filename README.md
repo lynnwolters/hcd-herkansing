@@ -145,6 +145,26 @@ Bij het derde testmoment kon Eric er helaas niet zijn, we zijn toen zelfstandig 
 * De tekst in het canvas verdwijnt als je hebt gekopieerd om snelle aanpassingen te maken
 * Doordat het canvas nu iets smaller is, heb je meer ruimte om te scrollen, hierdoor kan je naar beneden scrollen als je bijvoorbeeld teveel tekst typt of een knop net niet goed kan bereiken
 
+## Vierde testmoment
+
+![IMG_1061](https://github.com/user-attachments/assets/b7a9d1ee-59ea-4a0f-92f9-d084edca1778)
+
+Voor de vierde en laatste test is Eric weer naar ons toe gekomen. Mijn prototype was inmiddels twee iteraties verder en hij vond het erg tof werken, vooral het schrijven. Wel had hij nog een paar aanpassingen die hij graag zou willen zien:
+
+* De twee oranje knoppen lijken identiek op elkaar waardoor je heel snel op 'wis tekst' kunt klikken en je alles kwijt bent
+* Het blijft lastig om een heel woord te schrijven, er is namelijk nog geen optie dat je een woord verder kan schrijven onder elkaar, dan ziet het prototype dat als een spatie
+* Was nog niet helemaal duidelijk dat je op 'voeg getekende tekst toe' moest klikken
+
+### Aanbevelingen a.h.v. het vierde testmoment
+
+Aan de hand van het vierde testmoment zou ik een paar dingen toch heel anders doen. Doordat hij mij vertelde dat lange woorden lastig te schrijven waren, kreeg ik ineens een hele andere ingeving en zag ik dat er een veel betere manier was om dit prototype te maken, namelijk letter voor letter. In plaats van dat je steeds moet letten op de grootte van het canvas en dat het niet te vol raakt, is het veel handiger om letter voor letter in het tekstveld te zetten, en dan zonder een knop van 'voeg tekst toe'. Het huidige prototype is zo onstaan door die technologie die erin zit en de kleine hoeveelheid tijd die we hadden waardoor ik dit even over het hoofd heb gezien. De volgende functies zouden erin zitten:
+
+* Een letter schrijven en dan gelijk in het tekstveld, het canvas wordt daarna ook gelijk gewist
+* Er is een spatie knop
+* Er is een backspace knop die letter voor letter verwijderd uit het tekstveld
+* Er is een knop die het hele tekstveld leeg maakt
+* Er is een kopieer knop
+
 ## Bronnen
 * https://www.digitoegankelijk.nl/het-verhaal-van-eric-groot-kormelink (kijken hoe Eric beweegt)
 * https://nl.wikipedia.org/wiki/Optical_character_recognition (image to text technologie)
