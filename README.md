@@ -170,4 +170,6 @@ Aan de hand van het vierde testmoment zou ik een paar dingen toch heel anders do
 * https://nl.wikipedia.org/wiki/Optical_character_recognition (image to text technologie)
 * https://www.tensorflow.org/js (JavaScript AI training model)
 * https://codepen.io/tomapaunovic/pen/BapVoqb (prototype waarvan ik de JavaScript code heb gebruikt)
+* https://developer.mozilla.org/en-US/ (JavaScript knowledge)
+* https://exclusive-design.vasilis.nl/ (inlezen exclusive design)
 
